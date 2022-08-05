@@ -1,1 +1,3 @@
-buenas capo
+buenas capo\
+malas capo
+igual capo
